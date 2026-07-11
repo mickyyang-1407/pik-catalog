@@ -1,0 +1,416 @@
+{
+  "generatedAt" : "2026-07-11T06:08:16Z",
+  "schemaVersion" : 1,
+  "vendors" : [
+    {
+      "canonical" : "Baby Audio",
+      "checkedAt" : "2026-07-11T06:08:16Z",
+      "key" : "babyaudio",
+      "products" : [
+        {
+          "match" : "atoms",
+          "name" : "Atoms",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/babyaud.io\/downloads",
+          "version" : "1.2"
+        },
+        {
+          "match" : "ba1",
+          "name" : "BA-1",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/babyaud.io\/downloads",
+          "version" : "1.7"
+        },
+        {
+          "match" : "comebackkid",
+          "name" : "Comeback Kid",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/babyaud.io\/downloads",
+          "version" : "1.6"
+        },
+        {
+          "match" : "crystalline",
+          "name" : "Crystalline",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/babyaud.io\/downloads",
+          "version" : "1.8"
+        },
+        {
+          "match" : "grainferno",
+          "name" : "Grainferno",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/babyaud.io\/downloads",
+          "version" : "1.1.2"
+        },
+        {
+          "match" : "humanoid",
+          "name" : "Humanoid",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/babyaud.io\/downloads",
+          "version" : "1.2"
+        },
+        {
+          "match" : "iheartny",
+          "name" : "I Heart NY",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/babyaud.io\/downloads",
+          "version" : "1.4"
+        },
+        {
+          "match" : "ihny2",
+          "name" : "IHNY-2",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/babyaud.io\/downloads",
+          "version" : "1.5"
+        },
+        {
+          "match" : "parallelaggressor",
+          "name" : "Parallel Aggressor",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/babyaud.io\/downloads",
+          "version" : "1.5"
+        },
+        {
+          "match" : "smoothoperatorpro",
+          "name" : "Smooth Operator Pro",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/babyaud.io\/downloads",
+          "version" : "1.2"
+        },
+        {
+          "match" : "spacedout",
+          "name" : "Spaced Out",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/babyaud.io\/downloads",
+          "version" : "1.7"
+        },
+        {
+          "match" : "supervhs",
+          "name" : "Super VHS",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/babyaud.io\/downloads",
+          "version" : "1.6"
+        },
+        {
+          "match" : "taip",
+          "name" : "TAIP",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/babyaud.io\/downloads",
+          "version" : "1.6"
+        },
+        {
+          "match" : "tekno",
+          "name" : "Tekno",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/babyaud.io\/downloads",
+          "version" : "1.1"
+        },
+        {
+          "match" : "transit2",
+          "name" : "Transit 2",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/babyaud.io\/downloads",
+          "version" : "2.2"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "scrape"
+    },
+    {
+      "canonical" : "Black Salt Audio",
+      "checkedAt" : "2026-07-11T00:00:00Z",
+      "key" : "blacksaltaudio",
+      "products" : [
+        {
+          "match" : "bsadelays",
+          "name" : "BSA Delays",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/blacksaltaudio.com\/oxygen\/",
+          "version" : "1.1.1"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "manual"
+    },
+    {
+      "canonical" : "Eventide",
+      "checkedAt" : "2026-07-11T00:00:00Z",
+      "key" : "eventide",
+      "products" : [
+        {
+          "match" : "blackhole",
+          "name" : "Blackhole",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.eventideaudio.com\/downloads\/?product=Blackhole%C2%AE",
+          "version" : "3.11.4"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "manual"
+    },
+    {
+      "canonical" : "FabFilter",
+      "checkedAt" : "2026-07-11T06:08:16Z",
+      "key" : "fabfilter",
+      "products" : [
+        {
+          "match" : "proq4",
+          "name" : "Pro-Q 4",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.fabfilter.com\/download",
+          "version" : "4.13"
+        },
+        {
+          "match" : "proc3",
+          "name" : "Pro-C 3",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.fabfilter.com\/download",
+          "version" : "3.02"
+        },
+        {
+          "match" : "prol2",
+          "name" : "Pro-L 2",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.fabfilter.com\/download",
+          "version" : "2.26"
+        },
+        {
+          "match" : "pror2",
+          "name" : "Pro-R 2",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.fabfilter.com\/download",
+          "version" : "2.06"
+        },
+        {
+          "match" : "promb",
+          "name" : "Pro-MB",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.fabfilter.com\/download",
+          "version" : "1.33"
+        },
+        {
+          "match" : "prods",
+          "name" : "Pro-DS",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.fabfilter.com\/download",
+          "version" : "1.32"
+        },
+        {
+          "match" : "prog",
+          "name" : "Pro-G",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.fabfilter.com\/download",
+          "version" : "1.42"
+        },
+        {
+          "match" : "saturn2",
+          "name" : "Saturn 2",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.fabfilter.com\/download",
+          "version" : "2.13"
+        },
+        {
+          "match" : "timeless3",
+          "name" : "Timeless 3",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.fabfilter.com\/download",
+          "version" : "3.10"
+        },
+        {
+          "match" : "volcano3",
+          "name" : "Volcano 3",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.fabfilter.com\/download",
+          "version" : "3.09"
+        },
+        {
+          "match" : "twin3",
+          "name" : "Twin 3",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.fabfilter.com\/download",
+          "version" : "3.07"
+        },
+        {
+          "match" : "one",
+          "name" : "One",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.fabfilter.com\/download",
+          "version" : "3.52"
+        },
+        {
+          "match" : "simplon",
+          "name" : "Simplon",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.fabfilter.com\/download",
+          "version" : "1.42"
+        },
+        {
+          "match" : "micro",
+          "name" : "Micro",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.fabfilter.com\/download",
+          "version" : "1.32"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "scrape"
+    },
+    {
+      "canonical" : "iZotope",
+      "checkedAt" : "2026-07-11T06:08:16Z",
+      "key" : "izotope",
+      "products" : [
+        {
+          "match" : "ozone",
+          "name" : "ozone",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.izotope.com\/pages\/release-notes\/",
+          "version" : "12.1.0"
+        },
+        {
+          "match" : "rx",
+          "name" : "rx",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.izotope.com\/pages\/release-notes\/",
+          "version" : "11.4.0"
+        },
+        {
+          "match" : "neutron",
+          "name" : "neutron",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.izotope.com\/pages\/release-notes\/",
+          "version" : "5.2.0"
+        },
+        {
+          "match" : "nectar",
+          "name" : "nectar",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.izotope.com\/pages\/release-notes\/",
+          "version" : "4.1.0"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "scrape"
+    },
+    {
+      "canonical" : "Klanghelm",
+      "checkedAt" : "2026-07-11T00:00:00Z",
+      "key" : "klanghelm",
+      "products" : [
+        {
+          "match" : "dc1a",
+          "name" : "DC1A",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.klanghelm.com\/contents\/products\/DC1A.html",
+          "version" : "3.5.0"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "manual"
+    },
+    {
+      "canonical" : "LiquidSonics",
+      "checkedAt" : "2026-07-11T00:00:00Z",
+      "key" : "liquidsonics",
+      "products" : [
+        {
+          "match" : "seventhheavenprofessional",
+          "name" : "Seventh Heaven Professional",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.liquidsonics.com\/software\/seventh-heaven-professional\/",
+          "version" : "1.5.9"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "manual"
+    },
+    {
+      "canonical" : "MeldaProduction",
+      "checkedAt" : "2026-07-11T06:08:16Z",
+      "key" : "meldaproduction",
+      "products" : [
+
+      ],
+      "sharedVersion" : "17.09.02",
+      "source" : "scrape"
+    },
+    {
+      "canonical" : "Solid State Logic",
+      "checkedAt" : "2026-07-11T00:00:00Z",
+      "key" : "solidstatelogic",
+      "products" : [
+        {
+          "match" : "sslnative",
+          "name" : "SSL Native",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/support.solidstatelogic.com\/hc\/en-gb\/articles\/4408132057489-SSL-Native-v6-5-and-earlier-Release-Notes",
+          "version" : "6.5"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "manual"
+    },
+    {
+      "canonical" : "Soundtoys",
+      "checkedAt" : "2026-07-11T06:08:16Z",
+      "key" : "soundtoys",
+      "products" : [
+
+      ],
+      "sharedVersion" : "5.5.5",
+      "source" : "scrape"
+    },
+    {
+      "canonical" : "Universal Audio",
+      "checkedAt" : "2026-07-11T06:08:16Z",
+      "key" : "universalaudio",
+      "products" : [
+
+      ],
+      "sharedVersion" : "11.9.0",
+      "source" : "scrape"
+    },
+    {
+      "canonical" : "Valhalla DSP",
+      "checkedAt" : "2026-07-11T06:08:16Z",
+      "key" : "valhalladsp",
+      "products" : [
+        {
+          "match" : "supermassive",
+          "name" : "Supermassive",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/valhalladsp.com\/feed\/",
+          "version" : "5.0.0"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "scrape"
+    },
+    {
+      "canonical" : "Waves",
+      "checkedAt" : "2026-07-11T06:08:16Z",
+      "key" : "waves",
+      "products" : [
+
+      ],
+      "sharedVersion" : "17",
+      "source" : "scrape"
+    },
+    {
+      "canonical" : "Zynaptiq",
+      "checkedAt" : "2026-07-11T00:00:00Z",
+      "key" : "zynaptiq",
+      "products" : [
+        {
+          "match" : "morph",
+          "name" : "MORPH 3",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.zynaptiq.com\/morph\/morph-downloads\/",
+          "version" : "3.2.1"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "manual"
+    }
+  ]
+}
