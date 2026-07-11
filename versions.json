@@ -1,10 +1,10 @@
 {
-  "generatedAt" : "2026-07-11T06:08:16Z",
+  "generatedAt" : "2026-07-11T06:09:39Z",
   "schemaVersion" : 1,
   "vendors" : [
     {
       "canonical" : "Baby Audio",
-      "checkedAt" : "2026-07-11T06:08:16Z",
+      "checkedAt" : "2026-07-11T06:09:39Z",
       "key" : "babyaudio",
       "products" : [
         {
@@ -150,7 +150,7 @@
     },
     {
       "canonical" : "FabFilter",
-      "checkedAt" : "2026-07-11T06:08:16Z",
+      "checkedAt" : "2026-07-11T06:09:39Z",
       "key" : "fabfilter",
       "products" : [
         {
@@ -257,7 +257,7 @@
     },
     {
       "canonical" : "iZotope",
-      "checkedAt" : "2026-07-11T06:08:16Z",
+      "checkedAt" : "2026-07-11T06:09:39Z",
       "key" : "izotope",
       "products" : [
         {
@@ -326,7 +326,7 @@
     },
     {
       "canonical" : "MeldaProduction",
-      "checkedAt" : "2026-07-11T06:08:16Z",
+      "checkedAt" : "2026-07-11T06:09:39Z",
       "key" : "meldaproduction",
       "products" : [
 
@@ -352,7 +352,7 @@
     },
     {
       "canonical" : "Soundtoys",
-      "checkedAt" : "2026-07-11T06:08:16Z",
+      "checkedAt" : "2026-07-11T06:09:39Z",
       "key" : "soundtoys",
       "products" : [
 
@@ -362,7 +362,7 @@
     },
     {
       "canonical" : "Universal Audio",
-      "checkedAt" : "2026-07-11T06:08:16Z",
+      "checkedAt" : "2026-07-11T06:09:39Z",
       "key" : "universalaudio",
       "products" : [
 
@@ -372,7 +372,7 @@
     },
     {
       "canonical" : "Valhalla DSP",
-      "checkedAt" : "2026-07-11T06:08:16Z",
+      "checkedAt" : "2026-07-11T06:09:39Z",
       "key" : "valhalladsp",
       "products" : [
         {
@@ -388,7 +388,7 @@
     },
     {
       "canonical" : "Waves",
-      "checkedAt" : "2026-07-11T06:08:16Z",
+      "checkedAt" : "2026-07-11T06:09:39Z",
       "key" : "waves",
       "products" : [
 
