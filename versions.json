@@ -1,10 +1,10 @@
 {
-  "generatedAt" : "2026-07-13T23:30:05Z",
+  "generatedAt" : "2026-07-14T23:30:06Z",
   "schemaVersion" : 1,
   "vendors" : [
     {
       "canonical" : "Baby Audio",
-      "checkedAt" : "2026-07-13T23:30:05Z",
+      "checkedAt" : "2026-07-14T23:30:06Z",
       "key" : "babyaudio",
       "products" : [
         {
@@ -89,7 +89,7 @@
           "name" : "SubCulture",
           "paidUpgradeFrom" : null,
           "url" : "https:\/\/babyaud.io\/downloads",
-          "version" : "1.0"
+          "version" : "1.0.1"
         },
         {
           "match" : "supervhs",
@@ -157,7 +157,7 @@
     },
     {
       "canonical" : "FabFilter",
-      "checkedAt" : "2026-07-13T23:30:05Z",
+      "checkedAt" : "2026-07-14T23:30:06Z",
       "key" : "fabfilter",
       "products" : [
         {
@@ -264,7 +264,7 @@
     },
     {
       "canonical" : "iZotope",
-      "checkedAt" : "2026-07-13T23:30:05Z",
+      "checkedAt" : "2026-07-14T23:30:06Z",
       "key" : "izotope",
       "products" : [
         {
@@ -333,7 +333,7 @@
     },
     {
       "canonical" : "MeldaProduction",
-      "checkedAt" : "2026-07-13T23:30:05Z",
+      "checkedAt" : "2026-07-14T23:30:06Z",
       "key" : "meldaproduction",
       "products" : [
 
@@ -359,7 +359,7 @@
     },
     {
       "canonical" : "Soundtoys",
-      "checkedAt" : "2026-07-13T23:30:05Z",
+      "checkedAt" : "2026-07-14T23:30:06Z",
       "key" : "soundtoys",
       "products" : [
 
@@ -369,7 +369,7 @@
     },
     {
       "canonical" : "Universal Audio",
-      "checkedAt" : "2026-07-13T23:30:05Z",
+      "checkedAt" : "2026-07-14T23:30:06Z",
       "key" : "universalaudio",
       "products" : [
 
@@ -379,7 +379,7 @@
     },
     {
       "canonical" : "Valhalla DSP",
-      "checkedAt" : "2026-07-13T23:30:05Z",
+      "checkedAt" : "2026-07-14T23:30:06Z",
       "key" : "valhalladsp",
       "products" : [
         {
@@ -395,7 +395,7 @@
     },
     {
       "canonical" : "Waves",
-      "checkedAt" : "2026-07-13T23:30:05Z",
+      "checkedAt" : "2026-07-14T23:30:06Z",
       "key" : "waves",
       "products" : [
 
