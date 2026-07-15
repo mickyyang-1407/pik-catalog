@@ -1,10 +1,10 @@
 {
-  "generatedAt" : "2026-07-14T23:30:06Z",
+  "generatedAt" : "2026-07-15T23:30:05Z",
   "schemaVersion" : 1,
   "vendors" : [
     {
       "canonical" : "Baby Audio",
-      "checkedAt" : "2026-07-14T23:30:06Z",
+      "checkedAt" : "2026-07-15T23:30:05Z",
       "key" : "babyaudio",
       "products" : [
         {
@@ -157,7 +157,7 @@
     },
     {
       "canonical" : "FabFilter",
-      "checkedAt" : "2026-07-14T23:30:06Z",
+      "checkedAt" : "2026-07-15T23:30:05Z",
       "key" : "fabfilter",
       "products" : [
         {
@@ -264,7 +264,7 @@
     },
     {
       "canonical" : "iZotope",
-      "checkedAt" : "2026-07-14T23:30:06Z",
+      "checkedAt" : "2026-07-15T23:30:05Z",
       "key" : "izotope",
       "products" : [
         {
@@ -317,23 +317,100 @@
     },
     {
       "canonical" : "LiquidSonics",
-      "checkedAt" : "2026-07-11T00:00:00Z",
+      "checkedAt" : "2026-07-15T23:30:05Z",
       "key" : "liquidsonics",
       "products" : [
+        {
+          "match" : "cinematicroomsprofessional",
+          "name" : "Cinematic Rooms Professional",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.liquidsonics.com\/downloads\/",
+          "version" : "1.3.9"
+        },
+        {
+          "match" : "cinematicrooms",
+          "name" : "Cinematic Rooms",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.liquidsonics.com\/downloads\/",
+          "version" : "1.3.9"
+        },
         {
           "match" : "seventhheavenprofessional",
           "name" : "Seventh Heaven Professional",
           "paidUpgradeFrom" : null,
-          "url" : "https:\/\/www.liquidsonics.com\/software\/seventh-heaven-professional\/",
-          "version" : "1.5.9"
+          "url" : "https:\/\/www.liquidsonics.com\/downloads\/",
+          "version" : "1.5.8"
+        },
+        {
+          "match" : "seventhheaven",
+          "name" : "Seventh Heaven",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.liquidsonics.com\/downloads\/",
+          "version" : "1.5.8"
+        },
+        {
+          "match" : "lustrousplatessurround",
+          "name" : "Lustrous Plates Surround",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.liquidsonics.com\/downloads\/",
+          "version" : "1.3.7"
+        },
+        {
+          "match" : "lustrousplates",
+          "name" : "Lustrous Plates",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.liquidsonics.com\/downloads\/",
+          "version" : "1.3.7"
+        },
+        {
+          "match" : "illusion",
+          "name" : "Illusion",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.liquidsonics.com\/downloads\/",
+          "version" : "1.4.6"
+        },
+        {
+          "match" : "reverberate",
+          "name" : "Reverberate",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.liquidsonics.com\/downloads\/",
+          "version" : "3.4.6"
+        },
+        {
+          "match" : "taichi",
+          "name" : "Tai Chi",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.liquidsonics.com\/downloads\/",
+          "version" : "1.6.2"
+        },
+        {
+          "match" : "taichilite",
+          "name" : "Tai Chi Lite",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.liquidsonics.com\/downloads\/",
+          "version" : "1.6.2"
+        },
+        {
+          "match" : "hdcart",
+          "name" : "HD Cart",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.liquidsonics.com\/downloads\/",
+          "version" : "1.3.8"
+        },
+        {
+          "match" : "m7link",
+          "name" : "M7 Link",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.liquidsonics.com\/downloads\/",
+          "version" : "1.2.8"
         }
       ],
       "sharedVersion" : null,
-      "source" : "manual"
+      "source" : "scrape"
     },
     {
       "canonical" : "MeldaProduction",
-      "checkedAt" : "2026-07-14T23:30:06Z",
+      "checkedAt" : "2026-07-15T23:30:05Z",
       "key" : "meldaproduction",
       "products" : [
 
@@ -342,24 +419,110 @@
       "source" : "scrape"
     },
     {
-      "canonical" : "Solid State Logic",
-      "checkedAt" : "2026-07-11T00:00:00Z",
-      "key" : "solidstatelogic",
+      "canonical" : "oeksound",
+      "checkedAt" : "2026-07-15T23:30:05Z",
+      "key" : "oeksound",
       "products" : [
         {
-          "match" : "sslnative",
-          "name" : "SSL Native",
+          "match" : "bloom",
+          "name" : "bloom",
           "paidUpgradeFrom" : null,
-          "url" : "https:\/\/support.solidstatelogic.com\/hc\/en-gb\/articles\/4408132057489-SSL-Native-v6-5-and-earlier-Release-Notes",
-          "version" : "6.5"
+          "url" : "https:\/\/oeksound.com\/downloads",
+          "version" : "1.1.3"
+        },
+        {
+          "match" : "soothe3",
+          "name" : "soothe3",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/oeksound.com\/downloads",
+          "version" : "1.0.5"
         }
       ],
       "sharedVersion" : null,
-      "source" : "manual"
+      "source" : "scrape"
+    },
+    {
+      "canonical" : "Solid State Logic",
+      "checkedAt" : "2026-07-15T23:30:05Z",
+      "key" : "solidstatelogic",
+      "products" : [
+        {
+          "match" : "ssl360",
+          "name" : "SSL 360°",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
+          "version" : "2.0.6"
+        },
+        {
+          "match" : "4kg",
+          "name" : "4K G",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
+          "version" : "1.1.7"
+        },
+        {
+          "match" : "4ke",
+          "name" : "4K E",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
+          "version" : "1.5.7"
+        },
+        {
+          "match" : "4kb",
+          "name" : "4K B",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
+          "version" : "1.8.9"
+        },
+        {
+          "match" : "channelstrip2",
+          "name" : "Channel Strip 2",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
+          "version" : "2.9.11"
+        },
+        {
+          "match" : "buscompressor2",
+          "name" : "Bus Compressor 2",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
+          "version" : "1.8.8"
+        },
+        {
+          "match" : "360link",
+          "name" : "360 Link",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
+          "version" : "1.3.7"
+        },
+        {
+          "match" : "360linkbuscomp",
+          "name" : "360 Link Bus Comp",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
+          "version" : "1.2.6"
+        },
+        {
+          "match" : "meter",
+          "name" : "Meter",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
+          "version" : "1.5.11"
+        },
+        {
+          "match" : "meterpro",
+          "name" : "Meter Pro",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
+          "version" : "1.2.8"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "scrape"
     },
     {
       "canonical" : "Soundtoys",
-      "checkedAt" : "2026-07-14T23:30:06Z",
+      "checkedAt" : "2026-07-15T23:30:05Z",
       "key" : "soundtoys",
       "products" : [
 
@@ -369,7 +532,7 @@
     },
     {
       "canonical" : "Universal Audio",
-      "checkedAt" : "2026-07-14T23:30:06Z",
+      "checkedAt" : "2026-07-15T23:30:05Z",
       "key" : "universalaudio",
       "products" : [
 
@@ -379,7 +542,7 @@
     },
     {
       "canonical" : "Valhalla DSP",
-      "checkedAt" : "2026-07-14T23:30:06Z",
+      "checkedAt" : "2026-07-15T23:30:05Z",
       "key" : "valhalladsp",
       "products" : [
         {
@@ -395,7 +558,7 @@
     },
     {
       "canonical" : "Waves",
-      "checkedAt" : "2026-07-14T23:30:06Z",
+      "checkedAt" : "2026-07-15T23:30:05Z",
       "key" : "waves",
       "products" : [
 
@@ -405,19 +568,47 @@
     },
     {
       "canonical" : "Zynaptiq",
-      "checkedAt" : "2026-07-11T00:00:00Z",
+      "checkedAt" : "2026-07-15T23:30:05Z",
       "key" : "zynaptiq",
       "products" : [
         {
-          "match" : "morph",
-          "name" : "MORPH 3",
+          "match" : "balance1",
+          "name" : "BALANCE 1",
           "paidUpgradeFrom" : null,
-          "url" : "https:\/\/www.zynaptiq.com\/morph\/morph-downloads\/",
-          "version" : "3.2.1"
+          "url" : "https:\/\/www.zynaptiq.com\/",
+          "version" : "1.0.2"
+        },
+        {
+          "match" : "intensity2",
+          "name" : "INTENSITY 2",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.zynaptiq.com\/",
+          "version" : "2.0.0"
+        },
+        {
+          "match" : "punch1",
+          "name" : "PUNCH 1",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.zynaptiq.com\/",
+          "version" : "1.1.1"
+        },
+        {
+          "match" : "unfilter",
+          "name" : "UNFILTER",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.zynaptiq.com\/",
+          "version" : "1.5.0"
+        },
+        {
+          "match" : "unmixdrums",
+          "name" : "UNMIX DRUMS",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.zynaptiq.com\/",
+          "version" : "1.3.0"
         }
       ],
       "sharedVersion" : null,
-      "source" : "manual"
+      "source" : "scrape"
     }
   ]
 }
