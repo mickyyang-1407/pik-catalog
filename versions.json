@@ -1,10 +1,10 @@
 {
-  "generatedAt" : "2026-07-16T23:30:06Z",
+  "generatedAt" : "2026-07-17T08:21:14Z",
   "schemaVersion" : 1,
   "vendors" : [
     {
       "canonical" : "Baby Audio",
-      "checkedAt" : "2026-07-16T23:30:06Z",
+      "checkedAt" : "2026-07-17T08:21:14Z",
       "key" : "babyaudio",
       "products" : [
         {
@@ -157,7 +157,7 @@
     },
     {
       "canonical" : "FabFilter",
-      "checkedAt" : "2026-07-16T23:30:06Z",
+      "checkedAt" : "2026-07-17T08:21:14Z",
       "key" : "fabfilter",
       "products" : [
         {
@@ -264,7 +264,7 @@
     },
     {
       "canonical" : "iZotope",
-      "checkedAt" : "2026-07-16T23:30:06Z",
+      "checkedAt" : "2026-07-17T08:21:14Z",
       "key" : "izotope",
       "products" : [
         {
@@ -317,7 +317,7 @@
     },
     {
       "canonical" : "LiquidSonics",
-      "checkedAt" : "2026-07-16T23:30:06Z",
+      "checkedAt" : "2026-07-17T08:21:14Z",
       "key" : "liquidsonics",
       "products" : [
         {
@@ -410,7 +410,7 @@
     },
     {
       "canonical" : "MeldaProduction",
-      "checkedAt" : "2026-07-16T23:30:06Z",
+      "checkedAt" : "2026-07-17T08:21:14Z",
       "key" : "meldaproduction",
       "products" : [
 
@@ -420,7 +420,7 @@
     },
     {
       "canonical" : "oeksound",
-      "checkedAt" : "2026-07-16T23:30:06Z",
+      "checkedAt" : "2026-07-17T08:21:14Z",
       "key" : "oeksound",
       "products" : [
         {
@@ -442,8 +442,72 @@
       "source" : "scrape"
     },
     {
+      "canonical" : "PSPaudioware",
+      "checkedAt" : "2026-07-17T00:00:00Z",
+      "key" : "pspaudioware",
+      "products" : [
+        {
+          "match" : "pspauralcomp",
+          "name" : "PSP auralComp",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.pspaudioware.com\/products\/psp-auralcomp",
+          "version" : "2.0.2"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "manual"
+    },
+    {
+      "canonical" : "Pulsar",
+      "checkedAt" : "2026-07-17T00:00:00Z",
+      "key" : "pulsar",
+      "products" : [
+        {
+          "match" : "echorec",
+          "name" : "Echorec",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/pulsar.audio\/echorec\/",
+          "version" : "1.7.11"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "manual"
+    },
+    {
+      "canonical" : "reFuse Software",
+      "checkedAt" : "2026-07-17T00:00:00Z",
+      "key" : "refusesoftware",
+      "products" : [
+        {
+          "match" : "lowender",
+          "name" : "Lowender",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.refusesoftware.com\/lowender",
+          "version" : "1.6.0"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "manual"
+    },
+    {
+      "canonical" : "Reverb Foundry",
+      "checkedAt" : "2026-07-17T00:00:00Z",
+      "key" : "reverbfoundry",
+      "products" : [
+        {
+          "match" : "taichi",
+          "name" : "Tai Chi",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.liquidsonics.com\/software\/tai-chi\/",
+          "version" : "1.6.2"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "manual"
+    },
+    {
       "canonical" : "Solid State Logic",
-      "checkedAt" : "2026-07-16T23:30:06Z",
+      "checkedAt" : "2026-07-17T08:21:14Z",
       "key" : "solidstatelogic",
       "products" : [
         {
@@ -521,8 +585,24 @@
       "source" : "scrape"
     },
     {
+      "canonical" : "Soundtheory",
+      "checkedAt" : "2026-07-17T00:00:00Z",
+      "key" : "soundtheory",
+      "products" : [
+        {
+          "match" : "gullfoss",
+          "name" : "Gullfoss",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.soundtheory.com\/index.json",
+          "version" : "1.11.9"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "manual"
+    },
+    {
       "canonical" : "Soundtoys",
-      "checkedAt" : "2026-07-16T23:30:06Z",
+      "checkedAt" : "2026-07-17T08:21:14Z",
       "key" : "soundtoys",
       "products" : [
 
@@ -531,8 +611,24 @@
       "source" : "scrape"
     },
     {
+      "canonical" : "UJAM",
+      "checkedAt" : "2026-07-17T00:00:00Z",
+      "key" : "ujam",
+      "products" : [
+        {
+          "match" : "ufxreverb2",
+          "name" : "UFX REVERB 2",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/www.ujam.com\/ufx\/reverb\/manual",
+          "version" : "2.0.0"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "manual"
+    },
+    {
       "canonical" : "Universal Audio",
-      "checkedAt" : "2026-07-16T23:30:06Z",
+      "checkedAt" : "2026-07-17T08:21:14Z",
       "key" : "universalaudio",
       "products" : [
 
@@ -542,7 +638,7 @@
     },
     {
       "canonical" : "Valhalla DSP",
-      "checkedAt" : "2026-07-16T23:30:06Z",
+      "checkedAt" : "2026-07-17T08:21:14Z",
       "key" : "valhalladsp",
       "products" : [
         {
@@ -558,7 +654,7 @@
     },
     {
       "canonical" : "Waves",
-      "checkedAt" : "2026-07-16T23:30:06Z",
+      "checkedAt" : "2026-07-17T08:21:14Z",
       "key" : "waves",
       "products" : [
 
@@ -567,8 +663,24 @@
       "source" : "scrape"
     },
     {
+      "canonical" : "Youlean",
+      "checkedAt" : "2026-07-17T00:00:00Z",
+      "key" : "youlean",
+      "products" : [
+        {
+          "match" : "youleanloudnessmeter2",
+          "name" : "Youlean Loudness Meter 2",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/youlean.co\/download-youlean-loudness-meter\/",
+          "version" : "2.5.14"
+        }
+      ],
+      "sharedVersion" : null,
+      "source" : "manual"
+    },
+    {
       "canonical" : "Zynaptiq",
-      "checkedAt" : "2026-07-16T23:30:06Z",
+      "checkedAt" : "2026-07-17T08:21:14Z",
       "key" : "zynaptiq",
       "products" : [
         {
