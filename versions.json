@@ -1,10 +1,10 @@
 {
-  "generatedAt" : "2026-07-22T23:30:05Z",
+  "generatedAt" : "2026-07-23T23:30:05Z",
   "schemaVersion" : 1,
   "vendors" : [
     {
       "canonical" : "Baby Audio",
-      "checkedAt" : "2026-07-22T23:30:05Z",
+      "checkedAt" : "2026-07-23T23:30:05Z",
       "key" : "babyaudio",
       "products" : [
         {
@@ -157,7 +157,7 @@
     },
     {
       "canonical" : "FabFilter",
-      "checkedAt" : "2026-07-22T23:30:05Z",
+      "checkedAt" : "2026-07-23T23:30:05Z",
       "key" : "fabfilter",
       "products" : [
         {
@@ -264,7 +264,7 @@
     },
     {
       "canonical" : "iZotope",
-      "checkedAt" : "2026-07-22T23:30:05Z",
+      "checkedAt" : "2026-07-23T23:30:05Z",
       "key" : "izotope",
       "products" : [
         {
@@ -317,7 +317,7 @@
     },
     {
       "canonical" : "LiquidSonics",
-      "checkedAt" : "2026-07-22T23:30:05Z",
+      "checkedAt" : "2026-07-23T23:30:05Z",
       "key" : "liquidsonics",
       "products" : [
         {
@@ -410,7 +410,7 @@
     },
     {
       "canonical" : "MeldaProduction",
-      "checkedAt" : "2026-07-22T23:30:05Z",
+      "checkedAt" : "2026-07-23T23:30:05Z",
       "key" : "meldaproduction",
       "products" : [
 
@@ -420,7 +420,7 @@
     },
     {
       "canonical" : "oeksound",
-      "checkedAt" : "2026-07-22T23:30:05Z",
+      "checkedAt" : "2026-07-23T23:30:05Z",
       "key" : "oeksound",
       "products" : [
         {
@@ -507,7 +507,7 @@
     },
     {
       "canonical" : "Solid State Logic",
-      "checkedAt" : "2026-07-22T23:30:05Z",
+      "checkedAt" : "2026-07-23T23:30:05Z",
       "key" : "solidstatelogic",
       "products" : [
         {
@@ -609,7 +609,7 @@
     },
     {
       "canonical" : "Soundtoys",
-      "checkedAt" : "2026-07-22T23:30:05Z",
+      "checkedAt" : "2026-07-23T23:30:05Z",
       "key" : "soundtoys",
       "products" : [
 
@@ -635,7 +635,7 @@
     },
     {
       "canonical" : "Universal Audio",
-      "checkedAt" : "2026-07-22T23:30:05Z",
+      "checkedAt" : "2026-07-23T23:30:05Z",
       "key" : "universalaudio",
       "products" : [
 
@@ -645,7 +645,7 @@
     },
     {
       "canonical" : "Valhalla DSP",
-      "checkedAt" : "2026-07-22T23:30:05Z",
+      "checkedAt" : "2026-07-23T23:30:05Z",
       "key" : "valhalladsp",
       "products" : [
         {
@@ -661,7 +661,7 @@
     },
     {
       "canonical" : "Waves",
-      "checkedAt" : "2026-07-22T23:30:05Z",
+      "checkedAt" : "2026-07-23T23:30:05Z",
       "key" : "waves",
       "products" : [
 
@@ -687,7 +687,7 @@
     },
     {
       "canonical" : "Zynaptiq",
-      "checkedAt" : "2026-07-22T23:30:05Z",
+      "checkedAt" : "2026-07-23T23:30:05Z",
       "key" : "zynaptiq",
       "products" : [
         {
