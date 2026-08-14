@@ -1,10 +1,10 @@
 {
-  "generatedAt" : "2026-08-10T23:30:05Z",
+  "generatedAt" : "2026-08-14T02:05:53Z",
   "schemaVersion" : 1,
   "vendors" : [
     {
       "canonical" : "Baby Audio",
-      "checkedAt" : "2026-08-10T23:30:05Z",
+      "checkedAt" : "2026-08-14T02:05:53Z",
       "key" : "babyaudio",
       "products" : [
         {
@@ -157,7 +157,7 @@
     },
     {
       "canonical" : "FabFilter",
-      "checkedAt" : "2026-08-10T23:30:05Z",
+      "checkedAt" : "2026-08-14T02:05:53Z",
       "key" : "fabfilter",
       "products" : [
         {
@@ -264,7 +264,7 @@
     },
     {
       "canonical" : "iZotope",
-      "checkedAt" : "2026-08-10T23:30:05Z",
+      "checkedAt" : "2026-08-14T02:05:53Z",
       "key" : "izotope",
       "products" : [
         {
@@ -317,7 +317,7 @@
     },
     {
       "canonical" : "LiquidSonics",
-      "checkedAt" : "2026-08-10T23:30:05Z",
+      "checkedAt" : "2026-08-14T02:05:53Z",
       "key" : "liquidsonics",
       "products" : [
         {
@@ -410,7 +410,7 @@
     },
     {
       "canonical" : "MeldaProduction",
-      "checkedAt" : "2026-08-10T23:30:05Z",
+      "checkedAt" : "2026-08-14T02:05:53Z",
       "key" : "meldaproduction",
       "products" : [
 
@@ -420,7 +420,7 @@
     },
     {
       "canonical" : "oeksound",
-      "checkedAt" : "2026-08-10T23:30:05Z",
+      "checkedAt" : "2026-08-14T02:05:53Z",
       "key" : "oeksound",
       "products" : [
         {
@@ -507,7 +507,7 @@
     },
     {
       "canonical" : "Solid State Logic",
-      "checkedAt" : "2026-08-10T23:30:05Z",
+      "checkedAt" : "2026-08-14T02:05:53Z",
       "key" : "solidstatelogic",
       "products" : [
         {
@@ -515,70 +515,105 @@
           "name" : "360 Link",
           "paidUpgradeFrom" : null,
           "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
-          "version" : "1.3.7"
+          "version" : "1.4.8"
         },
         {
           "match" : "360linkbuscomp",
           "name" : "360 Link Bus Comp",
           "paidUpgradeFrom" : null,
           "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
-          "version" : "1.2.6"
+          "version" : "1.3.9"
+        },
+        {
+          "match" : "360linkbuscompressor",
+          "name" : "360° Link Bus Compressor",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
+          "version" : "1.1.7"
         },
         {
           "match" : "4kb",
           "name" : "4K B",
           "paidUpgradeFrom" : null,
           "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
-          "version" : "1.8.9"
+          "version" : "1.9.8"
+        },
+        {
+          "match" : "4kbchannelstrip",
+          "name" : "4K B Channel Strip",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
+          "version" : "1.1.9"
         },
         {
           "match" : "4ke",
           "name" : "4K E",
           "paidUpgradeFrom" : null,
           "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
-          "version" : "1.5.7"
+          "version" : "1.6.8"
         },
         {
           "match" : "4kg",
           "name" : "4K G",
           "paidUpgradeFrom" : null,
           "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
-          "version" : "1.1.7"
+          "version" : "1.2.7"
+        },
+        {
+          "match" : "buscompressor",
+          "name" : "Bus Compressor",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
+          "version" : "1.2.3"
         },
         {
           "match" : "buscompressor2",
           "name" : "Bus Compressor 2",
           "paidUpgradeFrom" : null,
           "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
-          "version" : "1.8.8"
+          "version" : "1.9.6"
         },
         {
           "match" : "channelstrip2",
           "name" : "Channel Strip 2",
           "paidUpgradeFrom" : null,
           "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
-          "version" : "2.9.11"
+          "version" : "2.10.6"
+        },
+        {
+          "match" : "harrison32classicchannelstrip",
+          "name" : "Harrison 32 Classic Channel Strip",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
+          "version" : "2.0.20"
         },
         {
           "match" : "meter",
           "name" : "Meter",
           "paidUpgradeFrom" : null,
           "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
-          "version" : "1.5.11"
+          "version" : "1.6.6"
         },
         {
           "match" : "meterpro",
           "name" : "Meter Pro",
           "paidUpgradeFrom" : null,
           "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
-          "version" : "1.2.8"
+          "version" : "1.3.7"
         },
         {
           "match" : "ssl360",
           "name" : "SSL 360°",
           "paidUpgradeFrom" : null,
           "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
-          "version" : "2.0.6"
+          "version" : "2.1.12"
+        },
+        {
+          "match" : "sslmeter",
+          "name" : "SSL Meter",
+          "paidUpgradeFrom" : null,
+          "url" : "https:\/\/support.solidstatelogic.com\/api\/v2\/help_center\/articles\/4849510029085.json",
+          "version" : "1.0.13"
         }
       ],
       "sharedVersion" : null,
@@ -609,7 +644,7 @@
     },
     {
       "canonical" : "Soundtoys",
-      "checkedAt" : "2026-08-10T23:30:05Z",
+      "checkedAt" : "2026-08-14T02:05:53Z",
       "key" : "soundtoys",
       "products" : [
 
@@ -635,7 +670,7 @@
     },
     {
       "canonical" : "Universal Audio",
-      "checkedAt" : "2026-08-10T23:30:05Z",
+      "checkedAt" : "2026-08-14T02:05:53Z",
       "key" : "universalaudio",
       "products" : [
 
@@ -645,7 +680,7 @@
     },
     {
       "canonical" : "Valhalla DSP",
-      "checkedAt" : "2026-08-10T23:30:05Z",
+      "checkedAt" : "2026-08-14T02:05:53Z",
       "key" : "valhalladsp",
       "products" : [
         {
@@ -675,7 +710,7 @@
     },
     {
       "canonical" : "Waves",
-      "checkedAt" : "2026-08-10T23:30:05Z",
+      "checkedAt" : "2026-08-14T02:05:53Z",
       "key" : "waves",
       "products" : [
 
@@ -701,7 +736,7 @@
     },
     {
       "canonical" : "Zynaptiq",
-      "checkedAt" : "2026-08-10T23:30:05Z",
+      "checkedAt" : "2026-08-14T02:05:53Z",
       "key" : "zynaptiq",
       "products" : [
         {
