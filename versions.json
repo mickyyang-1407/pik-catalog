@@ -1,10 +1,10 @@
 {
-  "generatedAt" : "2026-10-15T23:30:05Z",
+  "generatedAt" : "2026-10-16T23:30:00Z",
   "schemaVersion" : 1,
   "vendors" : [
     {
       "canonical" : "Baby Audio",
-      "checkedAt" : "2026-10-15T23:30:05Z",
+      "checkedAt" : "2026-10-16T23:30:00Z",
       "key" : "babyaudio",
       "products" : [
         {
@@ -164,7 +164,7 @@
     },
     {
       "canonical" : "FabFilter",
-      "checkedAt" : "2026-10-15T23:30:05Z",
+      "checkedAt" : "2026-10-16T23:30:00Z",
       "key" : "fabfilter",
       "products" : [
         {
@@ -271,35 +271,35 @@
     },
     {
       "canonical" : "iZotope",
-      "checkedAt" : "2026-10-15T23:30:05Z",
+      "checkedAt" : "2026-10-16T23:30:00Z",
       "key" : "izotope",
       "products" : [
         {
           "match" : "nectar",
           "name" : "nectar",
           "paidUpgradeFrom" : null,
-          "url" : "https:\/\/www.izotope.com\/pages\/release-notes\/",
+          "url" : "https:\/\/www.izotope.com\/pages\/release-notes\/nectar",
           "version" : "4.2.0"
         },
         {
           "match" : "neutron",
           "name" : "neutron",
           "paidUpgradeFrom" : null,
-          "url" : "https:\/\/www.izotope.com\/pages\/release-notes\/",
+          "url" : "https:\/\/www.izotope.com\/pages\/release-notes\/neutron",
           "version" : "5.2.0"
         },
         {
           "match" : "ozone",
           "name" : "ozone",
           "paidUpgradeFrom" : null,
-          "url" : "https:\/\/www.izotope.com\/pages\/release-notes\/",
+          "url" : "https:\/\/www.izotope.com\/pages\/release-notes\/ozone-standard",
           "version" : "12.1.0"
         },
         {
           "match" : "rx",
           "name" : "rx",
           "paidUpgradeFrom" : null,
-          "url" : "https:\/\/www.izotope.com\/pages\/release-notes\/",
+          "url" : "https:\/\/www.izotope.com\/pages\/release-notes\/rx-advanced",
           "version" : "12.0.0"
         }
       ],
@@ -324,7 +324,7 @@
     },
     {
       "canonical" : "LiquidSonics",
-      "checkedAt" : "2026-10-15T23:30:05Z",
+      "checkedAt" : "2026-10-16T23:30:00Z",
       "key" : "liquidsonics",
       "products" : [
         {
@@ -417,7 +417,7 @@
     },
     {
       "canonical" : "MeldaProduction",
-      "checkedAt" : "2026-10-15T23:30:05Z",
+      "checkedAt" : "2026-10-16T23:30:00Z",
       "key" : "meldaproduction",
       "products" : [
 
@@ -427,7 +427,7 @@
     },
     {
       "canonical" : "oeksound",
-      "checkedAt" : "2026-10-15T23:30:05Z",
+      "checkedAt" : "2026-10-16T23:30:00Z",
       "key" : "oeksound",
       "products" : [
         {
@@ -514,7 +514,7 @@
     },
     {
       "canonical" : "Solid State Logic",
-      "checkedAt" : "2026-10-15T23:30:05Z",
+      "checkedAt" : "2026-10-16T23:30:00Z",
       "key" : "solidstatelogic",
       "products" : [
         {
@@ -651,7 +651,7 @@
     },
     {
       "canonical" : "Soundtoys",
-      "checkedAt" : "2026-10-15T23:30:05Z",
+      "checkedAt" : "2026-10-16T23:30:00Z",
       "key" : "soundtoys",
       "products" : [
 
@@ -677,7 +677,7 @@
     },
     {
       "canonical" : "Universal Audio",
-      "checkedAt" : "2026-10-15T23:30:05Z",
+      "checkedAt" : "2026-10-16T23:30:00Z",
       "key" : "universalaudio",
       "products" : [
 
@@ -687,7 +687,7 @@
     },
     {
       "canonical" : "Valhalla DSP",
-      "checkedAt" : "2026-10-15T23:30:05Z",
+      "checkedAt" : "2026-10-16T23:30:00Z",
       "key" : "valhalladsp",
       "products" : [
         {
@@ -717,7 +717,7 @@
     },
     {
       "canonical" : "Waves",
-      "checkedAt" : "2026-10-15T23:30:05Z",
+      "checkedAt" : "2026-10-16T23:30:00Z",
       "key" : "waves",
       "products" : [
 
@@ -743,7 +743,7 @@
     },
     {
       "canonical" : "Zynaptiq",
-      "checkedAt" : "2026-10-15T23:30:05Z",
+      "checkedAt" : "2026-10-16T23:30:00Z",
       "key" : "zynaptiq",
       "products" : [
         {
